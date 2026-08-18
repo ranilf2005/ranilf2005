@@ -301,9 +301,6 @@ gantt
 
 <a href="https://github.com/ranilf2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 <a href="https://ranilf2005.github.io/ranilfernando.github.io/"><img src="https://img.shields.io/badge/Portfolio-00BCEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
-<!-- 👇 replace the handles below with your real profiles, then delete this comment -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://community.cisco.com/"><img src="https://img.shields.io/badge/Cisco%20Community-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco community" /></a>
 
 </div>
