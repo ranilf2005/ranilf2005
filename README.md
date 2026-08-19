@@ -22,8 +22,8 @@
 
 ```yaml
 name:        Ranil Fernando
-role:        Network Security Automation Engineer
-domain:      Cisco Secure Firewall (FTD/FMC/cdFMC) · NetDevOps · AI Agents
+role:        AI and Automation Leader
+domain:      Cyber Security · NetDevOps · AI Agents · Telecom
 location:    /dev/network
 currently:
   - building:  MCP servers that let AI agents safely drive network + security infra
